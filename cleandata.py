@@ -1,5 +1,4 @@
 import pandas as pd
-import random as rnd
 
 """
     replace 'Employment_Status' with the name of the column that holds the type of employment 
